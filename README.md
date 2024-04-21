@@ -13,7 +13,7 @@ The Summarizer App is an innovative Android application that leverages Flask API
 
 ## Screenshots
 
-![Summarizer Main Screen](screenshots/summarizer1.png)
+![Summarizer Main Screen](summarizer1.png)
 ![Summarizer Loading Screen](screenshots/summary2.png)
 ![Summarizer Text Input](screenshots/summary3.png)
 ![Summarizer YouTube Input](screenshots/summary4.png)

@@ -28,16 +28,14 @@ We invite users and developers alike to explore the functionalities of the `Summ
 ![Summarizer Main Screen](summarizer_merged_horizontal.png)
 
 
-*Note: Replace the placeholder paths with the actual file paths to the screenshots in your repository.*
+*
 
 ## Installation
 
 ```bash
 # Clone the repository to your local machine
-git clone https://github.com/yourusername/summarizer-app.git
+git clone https://github.com/nvhs/summarizer-app.git
 
 # Navigate to the cloned directory
 cd summarizer-app
 
-# Install the necessary dependencies
-# (Make sure to list actual commands if there are any specific to your project)
